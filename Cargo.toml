@@ -1,0 +1,10 @@
+[package]
+name = "stress"
+version = "0.1.0"
+authors = ["Kevin Tan <tankevin@stanford.edu>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+billboard = "0.1.0"
